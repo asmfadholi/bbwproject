@@ -2,6 +2,14 @@
 
 > operator apps
 
+Create project using
+
+- HTML 5
+- CSS3 (Less)
+- Bootstrap
+- Vue.js
+- Firebase
+
 ## Build Setup
 
 ``` bash
